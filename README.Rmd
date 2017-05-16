@@ -1,0 +1,10 @@
+---
+title: "README"
+author: "Jamaal Green"
+date: "5/16/2017"
+output: html_document
+---
+
+This is a repository for a project analysing residential location choice with a revealed preference survey from Metro, PDX's regional government. This particular project is an offshoot of that work and an attempt to start and work through a project in a more efficient way using github as the main repository of my essential documents. 
+
+First steps: get this repo up and running and shared with Prof. Wang, and make a little annotated bibliography from which we can build out the literature and get to writing. 
